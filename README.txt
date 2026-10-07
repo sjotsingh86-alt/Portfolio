@@ -4,7 +4,7 @@ Files:
 - index.html — main portfolio
 - styles.css — modern dark visual theme and responsive layout
 - script.js — scroll reveal, cursor glow, mobile menu, profile-card tilt
-- assets/profile.jpg — uploaded profile photo
+- assets/profile.jpeg — uploaded profile photo
 
 To run:
 1. Keep the folder structure intact.
